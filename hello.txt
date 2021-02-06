@@ -1,2 +1,3 @@
 hello git nihao!
 add words.22
+add from remote
